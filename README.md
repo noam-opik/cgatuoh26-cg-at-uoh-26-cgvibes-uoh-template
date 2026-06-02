@@ -1,8 +1,8 @@
 # Computer Graphics 2026 - Course Portfolio
 
 **Student Information**
-* **Name:** [Your Name Here]
-* **Student ID:** [Your ID Here]
+* **Name:** Noam Shaltiel
+* **Student ID:** 326744364
 
 ## Academic Integrity & Workflow Agreement
 
